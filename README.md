@@ -53,6 +53,15 @@ npm run serve
 2 Run the backend:
 python manage.py runserver
 
+## Screenshots
+
+![Screenshot 1](/demo1.png)
+*Caption for Screenshot 1.*
+
+![Screenshot 2](/demo2.png)
+*Caption for Screenshot 2.*
+
+
 ### Frontend Development
 The frontend is developed using Vue.js.
 front-end interface where users can:
