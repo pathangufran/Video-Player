@@ -74,4 +74,3 @@ c. Retrieve subtitles file associated with the video for user to play it.
 ### Contributing
 Contributions are encouraged! Fork the repository and create pull requests to propose improvements.
 
-
