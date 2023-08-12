@@ -62,8 +62,8 @@ python manage.py runserver
 ![Screenshot 2](/demo2.png)
 *Caption for Screenshot 2.*
 
-![Screenshot 2](/Api.png)
-*Caption for Screenshot 2.*
+![Screenshot 3](/Api.png)
+*Caption for Screenshot 3.*
 
 
 ### Frontend Development
