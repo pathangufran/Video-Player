@@ -53,12 +53,6 @@ npm run serve
 2 Run the backend:
 python manage.py runserver
 
-## Screenshots
-
-![Screenshot 1](https://drive.google.com/drive/u/0/my-drive)
-*Caption for Screenshot 1.*
-
-
 ### Frontend Development
 The frontend is developed using Vue.js.
 front-end interface where users can:
