@@ -10,6 +10,7 @@ This project is an interactive web application that allows users to upload video
   - [Prerequisites](#prerequisites)
   - [Installation](#installation)
 - [Usage](#usage)
+- [Screenshots](#screenshots)
 - [Frontend Development](#frontend-development)
 - [Backend Development](#backend-development)
 - [Contributing](#contributing)
@@ -53,12 +54,15 @@ npm run serve
 2 Run the backend:
 python manage.py runserver
 
-## Screenshots
+### Screenshots
 
 ![Screenshot 1](/demo1.png)
 *Caption for Screenshot 1.*
 
 ![Screenshot 2](/demo2.png)
+*Caption for Screenshot 2.*
+
+![Screenshot 2](/Api.png)
 *Caption for Screenshot 2.*
 
 
